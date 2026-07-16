@@ -1,2 +1,3 @@
 # demo-d130ff
-Auto generated demo site for PELE 渋谷
+
+AIによって自動生成された PELE 渋谷 様向けのデモサイトです。
